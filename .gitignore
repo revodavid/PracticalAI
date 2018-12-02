@@ -4,6 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 keysds.txt
+tracker.txt
+config.json
+.ipynb_checkpoints/
 
 # User-specific files
 *.suo
