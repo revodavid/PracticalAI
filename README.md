@@ -1,12 +1,12 @@
-# AI for Good Workshop
+# Practical AI for the Working Software Engineer
 
-by David M Smith ([`@revodavid`](https://twitter.com/revodavid)), Developer Advocate at Microsoft
+by David M Smith ([`@revodavid`](https://twitter.com/revodavid)), Cloud Advocate at Microsoft
 
-**Last updated**: November 2, 2018  
+**Last updated**: December 2, 2018  
 
 Presented at:
 
-* ODSC West, November 2018
+* AI Live (AIF01), Orlando, December 7 2018
 
 ## About these notebooks
 
@@ -16,9 +16,9 @@ This library includes three notebooks to support the workshop:
 2. Computer Vision API with R. Use an R script to interact with the Computer Vision API and generate captions for random Wikimedia images.
 3. Custom Vision with R. An R function to classify an image as a "Hot Dog" or "Not Hot Dog", using the Custom Vision service.
 
-These notebooks are hosted on Azure Notebooks at https://notebooks.azure.com/davidsmi/libraries/aiforgood, where you can run them interactively. You can also download them to run them using Jupyter.
+These notebooks are hosted on Azure Notebooks at https://notebooks.azure.com/davidsmi/libraries/ailive, where you can run them interactively. You can also download them to run them using Jupyter.
 
-Find the [slides for the workshop](https://github.com/revodavid/AIforGoodWorkshop/raw/master/AI%20For%20Good-David_Smith-ODSC%20Nov%202018.pdf) here.
+TODO: Find the [slides for the workshop](https://github.com/revodavid/AIforGoodWorkshop/raw/master/AI%20For%20Good-David_Smith-ODSC%20Nov%202018.pdf) here.
 
 ## Contact
 
