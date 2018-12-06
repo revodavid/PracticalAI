@@ -18,13 +18,15 @@ This library includes three notebooks to support the workshop:
 4. MNIST with scikit-learn. Use sckikit-learn to build a digit recognizer for the MNIST data using a regression model.
 5. MNIST with tensorflow. Use Tensorflow (from Python) to build a digit recognizer for the MNIST data using a convolutional neural network.
 
-These notebooks are hosted on Azure Notebooks at https://notebooks.azure.com/davidsmi/libraries/practicalai, where you can run them interactively. You can also download them to run them using Jupyter.
+These notebooks are hosted on Azure Notebooks at https://notebooks.azure.com/davidsmi/projects/practicalai, where you can run them interactively. You can also download them to run them using Jupyter.
 
 Find the [slides for the workshop](https://github.com/revodavid/PracticalAI/blob/master/AIF01%20Practical%20AI%20for%20the%20Working%20Software%20Engineer.pdf) here.
 
 ## Setup (for use in Azure Notebooks)
 
 * Sign in to Azure Notebooks. You'll need a Microsoft Account: your O365, Xbox, or Hotmail account will work.
+
+If you're new to Notebooks, check out the [Jupyter Notebook documentation](http://jupyter.readthedocs.io/en/latest/index.html) and the [Azure Notebook documentation](https://docs.microsoft.com/en-us/azure/notebooks/?WT.mc_id=AIlive-workshop-davidsmi).
 
 * If you have an iPhone, install the free [SeeingAI app](https://www.microsoft.com/seeing-ai?WT.mc_id=AIlive-workshop-davidsmi).
 
@@ -34,8 +36,8 @@ Find the [slides for the workshop](https://github.com/revodavid/PracticalAI/blob
 
 If you get stuck or just have other questions, you can contact me here:
 
-David Smith `davidsmi@microsoft.com`
-
+David Smith `davidsmi@microsoft.com`  
+Twitter: [@revodavid](https://twitter.com/revodavid)
 
 
 
