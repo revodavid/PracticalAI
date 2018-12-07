@@ -1,6 +1,6 @@
 # Training MNIST with Azure ML
 
-This repository is a lightly-modified clone of thr `tutorials` folder in
+This repository is a lightly-modified clone of the `tutorials` folder in
 [github.com/Azure/MachineLearningNotebooks/](https://github.com/Azure/MachineLearningNotebooks/).
 
 For a complete walkthrough for this tutorial, including instructions on setting
